@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AMST4Carousel.props" />
+</Project>
